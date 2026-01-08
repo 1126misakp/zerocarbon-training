@@ -17,7 +17,7 @@ export const PHASES_DATA: PhaseStep[] = [
   {
     id: 1,
     title: "前期准备阶段",
-    subtitle: "顶层策划与合作模式构建",
+    subtitle: "寻求合作模式",
     icon: ClipboardList,
     color: "bg-blue-500",
     details: [], 
@@ -253,7 +253,7 @@ export const FOCUS_POINTS_DATA: FocusPoint[] = [
       "智能策略控制"
     ],
     fullDetails: [
-      "数字孪生可视化：利用 AI 和大数据分析，实现碳排放的“可测量、可报告、可验证”，使能源监测-碳核算-预测调度一体化。",
+      "数字孪生可视化：利用AI和大数据分析，实现碳排放的“可测量、可报告、可验证”，使能源监测-碳核算-预测调度一体化。",
       "建立数据闭环MAOC管理制度：即核算（Measurement）、减排（Abatement）、抵消（Offset）、认证（Certificate）的闭环管理。"
     ],
     benefits: [
