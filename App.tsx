@@ -15,7 +15,7 @@ const App: React.FC = () => {
     { component: <IntroSlide />, title: "核心建设逻辑", isCover: false },
     { component: <PhasesSlide />, title: "六阶段实施路径", isCover: false },
     { component: <FocusPointsSlide />, title: "核心关注点", isCover: false },
-    { component: <SummarySlide />, title: "总结与回顾", isCover: false },
+    { component: <SummarySlide />, title: "总结", isCover: false },
     { component: <EndingSlide />, title: "", isCover: true },
   ];
 
