@@ -27,9 +27,9 @@ const EndingSlide: React.FC = () => {
       {/* Contact Footer Info */}
       <div className="mb-8 z-20 text-white/80 text-xs flex flex-col items-center gap-2 drop-shadow-md">
         <div className="flex gap-6">
-          <span>北京市海淀区西直门北大街42号节能大厦</span>
-          <span>Tel: 010-83052888</span>
-          <span>Fax: 010-83052714</span>
+          <span>杭州市西湖区文一西路588西溪首座A7</span>
+          <span>Tel: 0571-88852888</span>
+          <span>Fax: 0571-88852714</span>
         </div>
         <span className="font-bold">www.cecep.cn</span>
       </div>
