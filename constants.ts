@@ -246,7 +246,7 @@ export const FOCUS_POINTS_DATA: FocusPoint[] = [
     title: "数字化能碳管理平台",
     category: "技术支撑",
     icon: MonitorSmartphone,
-    description: "数字化是零碳园区的大脑。利用AIoT和大数据技术，实现碳排放的实时监测与智能优化。",
+    description: "数字化是零碳园区的大脑。利用AI和大数据技术，实现碳排放的实时监测与智能优化。",
     keyActionItems: [
       "MAOC 闭环管理",
       "数字孪生可视化",
